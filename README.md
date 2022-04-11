@@ -3,6 +3,7 @@
 Optional: Create and activate new virtual environment  
 ```
 cd path/to/new/venv
+pip install virtualenv
 virtualenv ddps -p python3.9  # 3.9 or higher  
 ./ddps/Scripts/activate  # activate venv
 ```  
